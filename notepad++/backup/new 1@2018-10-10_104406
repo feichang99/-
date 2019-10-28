@@ -1,0 +1,18 @@
+if  ((a1 != 8 and a1 != 12 and a1 != 21 and a1 != 22 and a1 != 27 and a1 != 31 and
+                    a1 != 5 and a1 != 14 and a1 != 17 and a1 != 22 and a1 != 23 and a1 != 28 and
+                    a1 != 8 and a1 != 11 and a1 != 15 and a1 != 17 and a1 != 23 and a1 != 25) and
+                  (a2 != 8 and a2 != 12 and a2 != 21 and a2 != 22 and a2 != 27 and a2 != 31 and
+                   a2 != 5 and a2 != 14 and a2 != 17 and a2 != 22 and a2 != 23 and a2 != 28 and
+                   a2 != 8 and a2 != 11 and a2 != 15 and a2 != 17 and a2 != 23 and a2 != 25) and
+                  (a3 != 8 and a3 != 12 and a3 != 21 and a3 != 22 and a3 != 27 and a3 != 31 and
+                   a3 != 5 and a3 != 14 and a3 != 17 and a3 != 22 and a3 != 23 and a3 != 28 and
+                   a3 != 8 and a3 != 11 and a3 != 15 and a3 != 17 and a3 != 23 and a3 != 25) and
+                  (a4 != 8 and a4 != 12 and a4 != 21 and a4 != 22 and a4 != 27 and a4 != 31 and
+                   a4 != 5 and a4 != 14 and a4 != 17 and a4 != 22 and a4 != 23 and a4 != 28 and
+                   a4 != 8 and a4 != 11 and a4 != 15 and a4 != 17 and a4 != 23 and a4 != 25) and
+                 (a5 != 8 and a5 != 12 and a5 != 21 and a5 != 22 and a5 != 27 and a5 != 31 and
+                  a5 != 5 and a5 != 14 and a5 != 17 and a5 != 22 and a5 != 23 and a5 != 28 and
+                  a5 != 8 and a5 != 11 and a5 != 15 and a5 != 17 and a5 != 23 and a5 != 25) and
+	         (a6 != 8 and a6 != 12 and a6 != 21 and a6 != 22 and a6 != 27 and a6 != 31 and
+                  a6 != 5 and a6 != 14 and a6 != 17 and a6 != 22 and a6 != 23 and a6 != 28 and
+                  a6 != 8 and a6 != 11 and a6 != 15 and a6 != 17 and a6 != 23 and a6 != 25)
