@@ -1,0 +1,10 @@
+if ((aa1 == 5 or aa1 ==14 or aa1 ==17 or aa1 == 22 or aa1 == 23 or aa1 == 28
+		aa2 == 5 or aa2 ==14 or aa2 ==17 or aa2 == 22 or aa2 == 23 or aa2 == 28
+		aa3 == 5 or aa3 ==14 or aa3 ==17 or aa3 == 22 or aa3 == 23 or aa3 == 28
+		aa4 == 5 or aa4 ==14 or aa4 ==17 or aa4 == 22 or aa4 == 23 or aa4 == 28
+		aa5 == 5 or aa5 ==14 or aa5 ==17 or aa5 == 22 or aa5 == 23 or aa5 == 28
+		aa6 == 5 or aa6 ==14 or aa6 ==17 or aa6 == 22 or aa6 == 23 or aa6 == 28) and (
+		aa1 != aa2 and aa1 != aa3 and aa1 != aa4 and aa1 != aa5 and aa1 != aa6 and 
+		aa2 != aa3 and aa2 != aa4 and aa2 != aa5 and aa2 != aa6 and aa3 != aa4 and
+		aa3 != aa5 and aa3 != aa6 and aa4 != aa5 and aa4 != aa6 and aa5 != aa6 and)):
+		print('%02d %02d %02d %02d %02d %02d' %(aa1,aa2,aa3,aa4,aa5,aa6))
