@@ -1,0 +1,22 @@
+if ((aaaaa1 == 08 or aaaaa1 ==11 or aaaaa1 ==15 or aaaaa1 == 17 or aaaaa1 == 23 or aaaaa1 == 25
+    aaaaa2 == 08 or aaaaa2 ==11 or aaaaa2 ==15 or aaaaa2 == 17 or aaaaa2 == 23 or aaaaa2 == 25
+    aaaaa3 == 08 or aaaaa3 ==11 or aaaaa3 ==15 or aaaaa3 == 17 or aaaaa3 == 23 or aaaaa3 == 25
+    aaaaa4 == 08 or aaaaa4 ==11 or aaaaa4 ==15 or aaaaa4 == 17 or aaaaa4 == 23 or aaaaa4 == 25
+    aaaaa5 == 08 or aaaaa5 ==11 or aaaaa5 ==15 or aaaaa5 == 17 or aaaaa5 == 23 or aaaaa5 == 25
+	aaaaa6 == 08 or aaaaa6 ==11 or aaaaa6 ==15 or aaaaa6 == 17 or aaaaa6 == 23 or aaaaa6 == 25)and 
+	(aaaaa1 == 5 or aaaaa1 ==14 or aaaaa1 ==17 or aaaaa1 == 22 or aaaaa1 == 23 or aaaaa1 == 28
+		aaaaa2 == 5 or aaaaa2 ==14 or aaaaa2 ==17 or aaaaa2 == 22 or aaaaa2 == 23 or aaaaa2 == 28
+		aaaaa3 == 5 or aaaaa3 ==14 or aaaaa3 ==17 or aaaaa3 == 22 or aaaaa3 == 23 or aaaaa3 == 28
+		aaaaa4 == 5 or aaaaa4 ==14 or aaaaa4 ==17 or aaaaa4 == 22 or aaaaa4 == 23 or aaaaa4 == 28
+		aaaaa5 == 5 or aaaaa5 ==14 or aaaaa5 ==17 or aaaaa5 == 22 or aaaaa5 == 23 or aaaaa5 == 28
+		aaaaa6 == 5 or aaaaa6 ==14 or aaaaa6 ==17 or aaaaa6 == 22 or aaaaa6 == 23 or aaaaa6 == 28)and
+		(aaaaa1 == 1 or aaaaa1 ==13 or aaaaa1 ==19 or aaaaa1 == 24 or aaaaa1 == 26 or aaaaa1 == 29 or
+		 aaaaa2 == 1 or aaaaa2 ==13 or aaaaa2 ==19 or aaaaa2 == 24 or aaaaa2 == 26 or aaaaa2 == 29 or
+		 aaaaa3 == 1 or aaaaa3 ==13 or aaaaa3 ==19 or aaaaa3 == 24 or aaaaa3 == 26 or aaaaa3 == 29 or
+		 aaaaa4 == 1 or aaaaa4 ==13 or aaaaa4 ==19 or aaaaa4 == 24 or aaaaa4 == 26 or aaaaa4 == 29 or
+		 aaaaa5 == 1 or aaaaa5 ==13 or aaaaa5 ==19 or aaaaa5 == 24 or aaaaa5 == 26 or aaaaa5 == 29 or
+		 aaaaa6 == 1 or aaaaa6 ==13 or aaaaa6 ==19 or aaaaa6 == 24 or aaaaa6 == 26 or aaaaa6 == 29) and (
+	aaaaa1 != aaaaa2 and aaaaa1 != aaaaa3 and aaaaa1 != aaaaa4 and aaaaa1 != aaaaa5 and aaaaa1 != aaaaa6 and 
+	aaaaa2 != aaaaa3 and aaaaa2 != aaaaa4 and aaaaa2 != aaaaa5 and aaaaa2 != aaaaa6 and aaaaa3 != aaaaa4 and
+	aaaaa3 != aaaaa5 and aaaaa3 != aaaaa6 and aaaaa4 != aaaaa5 and aaaaa4 != aaaaa6 and aaaaa5 != aaaaa6 and)):
+		print(('%02d %02d %02d %02d %02d %02d' %(aaaaa1,aaaaa2,aaaaa3,aaaaa4,aaaaa5,aaaaa6))
